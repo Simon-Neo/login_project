@@ -1,0 +1,34 @@
+{
+	"students": [
+		{
+			"name": "simon",
+			"password": "diosi",
+			"age": "25",
+			"cash": "1000"
+		},
+		{
+			"name": "google",
+			"password": "1388",
+			"age": "1",
+			"cash": "777000"
+		},
+		{
+			"name": "unity",
+			"password": "u123456",
+			"age": "50",
+			"cash": "999000"
+		},
+		{
+			"name": "realMadrid",
+			"password": "1254878",
+			"age": "18",
+			"cash": "777"
+		},
+		{
+			"name": "brsalona",
+			"password": "123123",
+			"age": "1",
+			"cash": "999999"
+		}
+	]
+}
